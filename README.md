@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caesar-readme&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caesar-readme&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://storage.googleapis.com/chydlx/codepen/random-gif-generator/giphy-logo.gif>
+<img src="https://placewaifu.com/image/200" width="512px">
 
 
 ---
